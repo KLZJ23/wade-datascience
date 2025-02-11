@@ -16,6 +16,7 @@ for i in range(6):
 #df.tail(20)
 
 '''
+foo
 for x in range(0, 9):
   globals()['string%s' % x] = 'Hello'
 print(string3)
